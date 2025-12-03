@@ -9,7 +9,7 @@ This project is designed to help students, tenants, and homeowners understand ho
 
 (Paste your GitHub Pages link here once you enable it)
 
-https://devteal.github.io/electricity-bill-estimator/
+https://devteall.github.io/electricity-bill-estimator/
 
 ---
 
@@ -96,7 +96,7 @@ Build things from scratch
 
 1. Download or clone the repo:
 
-git clone https://github.com/github/electricity-bill-estimator.git
+git clone https://github.com/devteall/electricity-bill-estimator.git
 
 2. Open index.html in any browser.
 
